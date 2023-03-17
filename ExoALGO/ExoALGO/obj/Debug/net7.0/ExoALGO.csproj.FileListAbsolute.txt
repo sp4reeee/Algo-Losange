@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\bin\Debug\net7.0\ExoALGO.exe
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\bin\Debug\net7.0\ExoALGO.deps.json
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\bin\Debug\net7.0\ExoALGO.runtimeconfig.json
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\bin\Debug\net7.0\ExoALGO.dll
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\bin\Debug\net7.0\ExoALGO.pdb
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.dll
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\refint\ExoALGO.dll
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.pdb
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ExoALGO.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ExoALGO\ExoALGO\obj\Debug\net7.0\ref\ExoALGO.dll
